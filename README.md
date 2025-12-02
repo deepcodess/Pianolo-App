@@ -14,9 +14,10 @@
 
 <p>
   <strong>Pianolo</strong> is a virtual piano application where users can play notes, experiment with melodies,
-  and learn basic key positions. The project is made in <strong>Unity</strong> and can be used as:
+  and learn basic key positions. The project is made in <strong>Unity engine</strong> for entertainment & academic purposes.
 </p>
 
+<br>
 
 <h2>✨ Features</h2>
 <ul>
@@ -26,13 +27,11 @@
   <li>Clean and simple UI suitable for beginners.</li>
 </ul>
 
-<h2>🎮 Basic Controls</h2>
 
-<h3>⌨️ Keyboard Mapping</h3>
-<p>
-  Pianolo uses keyboard keys with modifier combinations to play different piano notes
-  across low and upper octaves, including sharps.
-</p>
+<br>
+
+
+<h2>🎮 Basic Controls</h2>
 
 <h4>Note Keys</h4>
 <ul>
@@ -45,16 +44,25 @@
   <li><strong>G</strong> → Note G</li>
 </ul>
 
-<h4>Modifier Keys</h4>
+
+<br>
+
+
+<h3>⌨️ Keyboard Mapping</h3>
+<p>
+  Pianolo uses keyboard keys with combinations to play different piano notes.
+</p>
+
+
+<h4>How to play</h4>
 <ul>
-  <li><strong>No Modifier</strong> → Plays <em>Low keys (Natural)</em></li>
-  <li><strong>Shift</strong> → Plays <em>Upper keys (Natural)</em></li>
-  <li><strong>Ctrl</strong> → Plays <em>Low keys (Sharp)</em></li>
-  <li><strong>Ctrl + Shift</strong> → Plays <em>Upper keys (Sharp)</em></li>
+  <li><strong><code>Note Keys</code></strong> → Plays <em>Low keys (Natural)</em></li>
+  <li><strong>Shift + <code>Note Keys</code> </strong> → Plays <em>Upper keys (Natural)</em></li>
+  <li><strong>Ctrl + <code>Note Keys</code> </strong> → Plays <em>Low keys (Sharp)</em></li>
+  <li><strong>Ctrl + Shift + <code>Note Keys</code> </strong> → Plays <em>Upper keys (Sharp)</em></li>
 </ul>
 
 
-<hr>
 
 <h3>📱 Mouse & Touch Controls</h3>
 <ul>
@@ -69,17 +77,7 @@
 </p>
 
 
-
-
-
-
-
-<h2>📂 Project Structure</h2>
-<ul>
-  <li><code>Assets/</code> – Unity scenes, scripts, audio, and UI assets.</li>
-  <li><code>Packages/</code> – Unity package configuration files.</li>
-  <li><code>ProjectSettings/</code> – Unity project settings.</li>
-</ul>
+<br>
 
 
 <h2>📦 Steps to Install & Run</h2>
@@ -91,6 +89,9 @@
   <li>Locate the file with the <strong>.exe</strong> extension (for example: <code>Pianolo.exe</code>).</li>
   <li>Double-click the <strong>.exe</strong> file to launch the app.</li>
 </ol>
+
+
+<br>
 
 
 <h2>🤝 Contributing</h2>
@@ -105,6 +106,11 @@
   <li>Open a Pull Request.</li>
 </ol>
 
+
+
+<br>
+
+
 <h2>📄 License</h2>
 <p>
   <span title="MIT License">&#x24D8;</span>
@@ -113,6 +119,10 @@
 <p>
   &copy; 2025 Pianolo App. See the <a href="./LICENSE">LICENSE</a> file for details.
 </p>
+
+
+<br>
+
 
 <h2>📫 Contact</h2>
 <p>
